@@ -8,7 +8,8 @@ export default {
             price: 50000,
             brand: 'Cô 3',
             rating: 4.5,
-            numReviews: 10
+            numReviews: 10,
+            countInStock: 6,
             },
 
             {
@@ -19,7 +20,9 @@ export default {
                 price: 40000,
                 brand: 'Cô 3',
                 rating: 4.2,
-                numReviews: 8
+                numReviews: 8,
+                countInStock: 6,
+                
             },
 
             {
@@ -30,7 +33,8 @@ export default {
                 price: 55000,
                 brand: 'Cô 3',
                 rating: 4.0,
-                numReviews: 6
+                numReviews: 6,
+                countInStock: 6,
             },
 
             {
@@ -41,7 +45,8 @@ export default {
                 price: 30000,
                 brand: 'Cô 3',
                 rating: 3.5,
-                numReviews: 10
+                numReviews: 10,
+                countInStock: 6,
             },
 
     ]
